@@ -1,4 +1,5 @@
-JavaScript Intro to Functions Lab
+?return `${greeting}, ${firstName}!`
+}JavaScript Intro to Functions Lab
 ---
 
 ## Objectives
